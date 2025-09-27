@@ -6,7 +6,7 @@ HERE = Path(__file__).parent
 long_description = (HERE / "README.md").read_text()
 
 setup(
-	name="fireredtts2",
+	name="tts-webui.fireredtts2",
 	version="0.1.0",
 	description="FireRedTTS2 - speech generation utilities and model wrapper",
 	long_description=long_description,
